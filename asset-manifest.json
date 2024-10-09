@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/retho/static/css/main.a86793cb.css",
+    "main.js": "/retho/static/js/main.a9ba6c22.js",
+    "static/js/453.417cf24e.chunk.js": "/retho/static/js/453.417cf24e.chunk.js",
+    "static/media/cepraee.jpg": "/retho/static/media/cepraee.9332f270d327319eec54.jpg",
+    "index.html": "/retho/index.html",
+    "main.a86793cb.css.map": "/retho/static/css/main.a86793cb.css.map",
+    "main.a9ba6c22.js.map": "/retho/static/js/main.a9ba6c22.js.map",
+    "453.417cf24e.chunk.js.map": "/retho/static/js/453.417cf24e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86793cb.css",
+    "static/js/main.a9ba6c22.js"
+  ]
+}
